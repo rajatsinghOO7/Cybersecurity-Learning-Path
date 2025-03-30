@@ -1,5 +1,3 @@
-# Cybersecurity-Learning-Path
-Step-by-step guide to gaining hands-on cybersecurity experience
 # Cybersecurity Learning Path 🚀  
 
 This repository provides a step-by-step guide to gaining hands-on experience in cybersecurity, focusing on SOC analyst skills, network analysis, vulnerability management, and GRC (Governance, Risk, and Compliance).  
